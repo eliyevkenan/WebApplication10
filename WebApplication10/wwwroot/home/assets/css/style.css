@@ -1,0 +1,297 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.container {
+  width: 100%;
+}
+
+.header {
+  width: 1903px;
+  height: 80px;
+}
+
+header .navbar .navbar-nav .nav-link {
+  color: #000000E6;
+  font-size: 2rem;
+  font-weight: 400;
+  margin-right: 2rem;
+}
+
+main .head1 .back-image img {
+  width: 100%;
+  background-size: cover;
+  height: 40rem;
+  background-position: center;
+}
+
+main .container .img-text {
+  margin-top: -30rem;
+  margin-left: 8rem;
+}
+
+main .container .img-text h1, main .container .img-text p {
+  color: white;
+}
+
+main .container .img-text h1 {
+  font-size: 5rem;
+}
+
+main .container .img-text p {
+  font-size: 2rem;
+}
+
+main form .cards {
+  width: 35rem;
+  height: 40px;
+  position: absolute;
+  margin-left: 120.4rem;
+  background-color: #2842CDE8;
+}
+
+main form .cards .form {
+  background-color: #2842CDE8;
+  border: 2px solid white;
+  height: 38rem;
+  width: 30rem;
+  margin-top: -14rem;
+}
+
+main form .cards .form .boot {
+  width: 24.6rem;
+  margin: auto;
+}
+
+main form .cards .form h1 {
+  text-align: center;
+  color: white;
+  margin-top: 2rem;
+}
+
+main form .cards .form .btn {
+  width: 24.5rem;
+  height: 3rem;
+  margin-left: 2.6rem;
+  margin-top: 2rem;
+}
+
+main form .cards .form .form-label {
+  color: white;
+}
+
+main .container .our-text {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 8rem;
+  padding-top: 23rem;
+}
+
+main .container .our-text h1 {
+  font-size: 4.2rem;
+}
+
+main .container .our-text span h1 {
+  color: #2842CD;
+  margin-top: -5rem;
+  margin-left: 20rem;
+}
+
+main .container .lorem-text {
+  text-align: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-left: 32rem;
+  width: 60rem;
+  font-size: 14px;
+}
+
+main .container .lorem-text .p {
+  text-align: center;
+}
+
+main .container .box-card {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+main .container .icon .item span i {
+  font-size: 35px;
+  color: #2824CD;
+}
+
+main .container .icon .item span h2 {
+  font-size: 20px;
+}
+
+main .container .icon .item span p {
+  font-size: 16px;
+}
+
+main .general {
+  background-color: whitesmoke;
+  width: 100%;
+  height: 60rem;
+}
+
+main .general .container .general-text {
+  padding-top: 6rem;
+}
+
+main .general .container .general-text h1, main .general .container .general-text span, main .general .container .general-text h1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-left: 0.5rem;
+  font-size: 35px;
+  font-weight: 700;
+}
+
+main .general .container .general-text span h1 {
+  margin-top: 0.5rem;
+  color: #2824CD;
+}
+
+main .general .car-chooice .car-data .car-series {
+  margin-top: 80px;
+  margin-left: 105px;
+}
+
+main .general .car-chooice .car-data .car-series .car-box {
+  background-color: #e0dfdf;
+  border-left: 6px solid #000000;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  border-bottom: 2px solid white;
+  height: 55px;
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
+  width: 300px;
+}
+
+main .general .car-chooice .car-data .car-series .car-box h2 {
+  color: #2824CD;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+main .general .car-chooice .car-data .car-series .car-box span, main .general .car-chooice .car-data .car-series .car-box h3 {
+  color: #2824CD;
+}
+
+main .general .car-chooice .car-data .car-series .car-box a {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  text-decoration: none;
+}
+
+main .general .car-chooice .car-data .car-series .car-box:hover {
+  background-color: whitesmoke;
+}
+
+main .general .car-chooice .car1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  position: absolute;
+  margin-top: -390px;
+  width: 500px;
+  height: 400px;
+  margin-left: 400px;
+  border-radius: 5px;
+}
+
+main .general .card-2 {
+  width: 350px;
+  border: 2px solid;
+  margin-left: 893px;
+  margin-top: -387px;
+}
+
+main .general .card-2 .table1 h4, main .general .card-2 .table1 p {
+  display: inline;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: start;
+}
+
+main .general .card-2 .table1 p {
+  text-align: end;
+}
+
+main .general .card-2 .table1 h4 {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+main .general .card-2 .table1 p {
+  font-size: 16px;
+  margin-right: 0px;
+}
+
+main .general .card-2 .btn1 {
+  margin-left: 150px;
+  width: 180px;
+  height: 40px;
+  margin-bottom: 7px;
+}
+
+.web-map .container .map-select {
+  margin-top: 7.5rem;
+}
+
+.web-map .container .form-control {
+  background-color: grey;
+  margin-left: 600px;
+  margin-top: -455px;
+  height: 450px;
+  width: 650px;
+}
+
+footer .footer-wrap {
+  background-color: #e0dfdf;
+  width: 100%;
+  height: 100px;
+  margin-top: 40px;
+}
+
+footer .footer-wrap .copyright {
+  text-align: center;
+  font-size: 28px;
+  padding-top: 40px;
+  font-weight: 700;
+}
+/*# sourceMappingURL=style.css.map */
